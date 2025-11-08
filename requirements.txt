@@ -8,3 +8,4 @@ seaborn
 tensorflow
 joblib
 python-docx
+PyPDF2
